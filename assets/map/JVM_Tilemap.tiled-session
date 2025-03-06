@@ -1,0 +1,103 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/campus-east.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/bricks.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/campus-east.tmx": {
+            "scale": 0.3466,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 640.5077899596076,
+                "y": 790.536641661858
+            }
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/plants.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/roofs.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/terrain-map-v7-repacked.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/victorian-mansion.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/victorian-tenement.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/victorian-windows-doors.tsx": {
+            "scaleInDock": 1
+        },
+        "Bus_stop.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "CS_building.tsx": {
+            "scaleInDock": 0.6,
+            "scaleInEditor": 1
+        },
+        "Final_Tilemap.tmx": {
+            "scale": 0.6748,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 422.34736218138715,
+                "y": 229.69768820391232
+            }
+        },
+        "Piazza_building.tsx": {
+            "scaleInDock": 0.6,
+            "scaleInEditor": 1
+        },
+        "Placeholder_Tilemap.tmx": {
+            "scale": 0.6894,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 494.63301421525966,
+                "y": 420.6556425877574
+            }
+        },
+        "constantine_sprite.tsx": {
+            "scaleInDock": 0.6,
+            "scaleInEditor": 1
+        },
+        "constantine_sprite_transparent.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset_1.tsx": {
+            "scaleInDock": 0.6,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/freddiehigham/Documents/GitHub/eng1/project/assets/map",
+    "map.height": 260,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 300,
+    "openFiles": [
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/campus-east.tmx"
+    ],
+    "project": "JVM_Tilemap.tiled-project",
+    "recentFiles": [
+        "/Users/freddiehigham/Documents/GitHub/assessment2/assets/maps/campus-east.tmx",
+        "tileset_1.tsx",
+        "Bus_stop.tsx",
+        "CS_building.tsx",
+        "Piazza_building.tsx",
+        "constantine_sprite_transparent.tsx",
+        "Final_Tilemap.tmx",
+        "Placeholder_Tilemap.tmx",
+        "constantine_sprite.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
